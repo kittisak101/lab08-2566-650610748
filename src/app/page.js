@@ -22,7 +22,7 @@ export default function Home() {
         <Task title="Sleep" />
       </div>
       {/* //footer section */}
-      <Footer year="2023" fullName="Kittisak Bundit" studentId="650610748" />
+      <Footer year="2023" fullname="Kittisak Bundit" studentId="650610748" />
     </div>
   );
 }
